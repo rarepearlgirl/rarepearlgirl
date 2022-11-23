@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rarepearlgirl
-- 👀 I’m interested in being a frontend-developer 
+- 👀 I’m an aspiring frontend-developer 
 - 🌱 I’m currently learning at CareerFoundry
 - 💞️ I’m looking to collaborate on developing websites
 - 📫 How to reach me draculahgirl@gmail.com
